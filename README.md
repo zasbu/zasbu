@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @zasbu
-- 👀 I’m interested in making programs with ChatGPT.
 - 📫 How to reach me: discord @ zas
 
 <!---
